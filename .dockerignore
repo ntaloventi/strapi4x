@@ -4,4 +4,4 @@
 build/
 node_modules/
 data/
-strapi4x.sql
+# strapi4x.sql
